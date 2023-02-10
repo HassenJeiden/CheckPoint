@@ -1,0 +1,41 @@
+nav{
+display: inline;
+font-family: 'Roboto', sans-serif;
+font-size: x-large;
+word-spacing: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 60%;
+background-color: goldenrod;
+}
+
+section > form{
+    margin: 2%;
+    display: inline-block;
+    width: 45%;
+    height: 350px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16;
+    text-align: justify;
+    position: relative;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+    background-color: gray;
+}
+body{
+    background-color: rgb(207, 205, 205);
+}
+p{
+    position: absolute;
+    top: 0%;
+}
+form > img{
+    position: absolute;
+    top: 0%;
+}
+.linknav{
+    position: absolute;
+    top:320px
+    }
